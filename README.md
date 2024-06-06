@@ -1,6 +1,7 @@
 # ♾️ Smart Fabunmi
 I'm a Software Engineer building my version of the digital world, one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.   I focus on bringing great ideas to life and building robust and scalable enterprise applications.
-
+<br/>
+<br/>
 ## 🤝🏻 &nbsp;Connect with Me:
 [![website](/img/icons8-linkedin.svg)](https://linkedin.com/in/smartfabunmi#gh-light-mode-only)
 [![website](/img/icons8-linkedin.svg)](https://linkedin.com/in/smartfabunmi#gh-dark-mode-only)
@@ -10,9 +11,10 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 &nbsp;&nbsp;
 [![website](./img/icons8-gmail.svg)](mailto:smartfabunmi@gmail.com#gh-light-mode-only)
 [![website](./img/icons8-gmail.svg)](mailto:devumair260@gmail.com#gh-dark-mode-only)
+<br/>
 
 
-## 🧰 &nbsp;Languages and Tools
+## 🧰 Tech Stack 🛠️
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -31,12 +33,10 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-
 <br/>
 <br/>
     
 ---
-<br/>
 
 ## 📊<i> GitHub Analytics</i>
     
