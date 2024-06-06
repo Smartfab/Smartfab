@@ -5,7 +5,6 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 <div align="left" >
 <a target="_blank" href="https://www.linkedin.com/in/smartfabunmi/"><img src="https://custom-icon-badges.demolab.com/badge/-smartfabunmi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" href="mailto:smartfabunmi@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-smartfabunmi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://www.smartfabunmi.com/"><img src="https://custom-icon-badges.demolab.com/-smartfabunmi-000000?style=flat&logo=About.me&logoColor=white"/></a>
 <a target="_blank" href="https://www.buymeacoffee.com/smartfabunmi"><img src="https://custom-icon-badges.demolab.com/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/>
  </a>
 </div>
