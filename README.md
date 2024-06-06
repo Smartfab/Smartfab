@@ -35,5 +35,5 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 ---
 
 ### Awards and Badges
-<img src="badgers/git-and-github-essentials.png" height="200px"/>
+<img src="badges/git-and-github-essentials.png" height="200px"/>
 
