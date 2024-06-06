@@ -28,8 +28,19 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 
 #
 
-### 📊 Stats
+### 📊 GitHub Analytics
+    <p align="center">
+        <a href="https://github.com/umairazmat">
+            <img height="180em"
+                src="https://github-readme-stats-sigma-five.vercel.app/api?username=umairazmat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+            <img height="180em"
+                src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umairazmat&langs_count=12&layout=compact&langs_count=8&theme=algolia" />
+        </a>
+        <img width="50%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+    </p>
 
+<!-- quote -->
 ![Smart's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartfab&show_icons=true&theme=outrun)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
