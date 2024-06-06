@@ -1,8 +1,7 @@
-# ♾️Smart Fabunmi
+# ♾️ Smart Fabunmi
 I'm a Software Engineer building my version of the digital world, one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.   I focus on bringing great ideas to life and building robust and scalable enterprise applications.
 
-### 🤝🏻 &nbsp;Connect with Me:
-&nbsp;&nbsp;
+## 🤝🏻 &nbsp;Connect with Me:
 [![website](/img/icons8-linkedin.svg)](https://linkedin.com/in/smartfabunmi#gh-light-mode-only)
 [![website](/img/icons8-linkedin.svg)](https://linkedin.com/in/smartfabunmi#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -13,7 +12,7 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 [![website](./img/icons8-gmail.svg)](mailto:devumair260@gmail.com#gh-dark-mode-only)
 
 
-## 🧰 Languages and Tools
+## 🧰 &nbsp;Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -32,19 +31,18 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 
-
-#
-
+<br/>
+<br/>
+    
 ---
 
-
-### <h2>📊<i> GitHub Analytics</i></h2>
+## <h2>📊<i> GitHub Analytics</i></h2>
     
 ![Smart's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartfab&show_icons=true&theme=outrun)
 
 ---
 
-### <h2><i>🏅 Awards &  Badges</i></h2>
+## <h2><i>🏅 Awards &  Badges</i></h2>
 <div align="center">
 <a  href="https://www.credly.com/earner/earned/badge/22354a63-0cd0-401d-9b83-26165a521083"><img src="badges/git-and-github-essentials.png" height="200px" alt="IBM GitHub Badge/></a>
 <a href="https://www.credly.com/earner/earned/badge/56a76d4e-9861-4ab1-95e2-d987767b00f5"><img src="badges/linux-commands-shell-scripting-essentials-v2.png" height="200px" alt="IBM Linux Badge"/></a>
