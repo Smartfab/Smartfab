@@ -20,12 +20,8 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-         
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />         
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
@@ -39,9 +35,9 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 
 ### Awards and Badges
 <div align="center">
-<a  href="https://www.credly.com/earner/earned/badge/22354a63-0cd0-401d-9b83-26165a521083"><img src="badges/git-and-github-essentials.png" height="200px"/></a>
-<a href="https://www.credly.com/earner/earned/badge/56a76d4e-9861-4ab1-95e2-d987767b00f5"><img src="badges/linux-commands-shell-scripting-essentials-v2.png" height="200px"/></a>
-<a href="https://www.credly.com/earner/earned/badge/83bf4665-a164-4717-ad61-e9435733f3a0"><img src="badges/software-engineering-essentials.png" height="200px"/></a>
+<a  href="https://www.credly.com/earner/earned/badge/22354a63-0cd0-401d-9b83-26165a521083"><img src="badges/git-and-github-essentials.png" height="200px" alt="IBM GitHub Badge/></a>
+<a href="https://www.credly.com/earner/earned/badge/56a76d4e-9861-4ab1-95e2-d987767b00f5"><img src="badges/linux-commands-shell-scripting-essentials-v2.png" height="200px" alt="IBM Linux Badge"/></a>
+<a href="https://www.credly.com/earner/earned/badge/83bf4665-a164-4717-ad61-e9435733f3a0"><img src="badges/software-engineering-essentials.png" height="200px" alt="IBM Software Engineering Essentials Badge"/></a>
 </div>
 
 
