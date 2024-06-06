@@ -35,5 +35,9 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 ---
 
 ### Awards and Badges
-<img src="badges/git-and-github-essentials.png" height="200px"/>
+<img src="badges/git-and-github-essentials.png" height="200px" href="https://www.credly.com/earner/earned/badge/22354a63-0cd0-401d-9b83-26165a521083"/>
+<img src="badges/linux-commands-shell-scripting-essentials-v2.png" height="200px" href="https://www.credly.com/earner/earned/badge/56a76d4e-9861-4ab1-95e2-d987767b00f5"/>
+<img src="badges/software-engineering-essentials.png" height="200px" href="https://www.credly.com/earner/earned/badge/83bf4665-a164-4717-ad61-e9435733f3a0"/>
+
+
 
