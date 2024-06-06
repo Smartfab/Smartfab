@@ -32,3 +32,8 @@ I'm a Software Engineer building my version of the digital world, one step at a 
     
 ![Smart's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartfab&show_icons=true&theme=outrun)
 
+---
+
+### Awards and Badges
+
+
