@@ -29,6 +29,7 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 #
 
 ### 📊 GitHub Analytics
+
     <p align="center">
         <a href="https://github.com/umairazmat">
             <img height="180em"
@@ -40,7 +41,5 @@ I'm a Software Engineer building my version of the digital world, one step at a 
             src="https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
     </p>
 
-<!-- quote -->
 ![Smart's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartfab&show_icons=true&theme=outrun)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
