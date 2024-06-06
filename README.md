@@ -1,4 +1,4 @@
-# Smart Fabunmi
+# ♾️Smart Fabunmi
 I'm a Software Engineer building my version of the digital world, one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.   I focus on bringing great ideas to life and building robust and scalable enterprise applications.
 
   ## 🤝🏻 &nbsp;Connect with Me
@@ -21,21 +21,24 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />         
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />   <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/> 
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+
           
 <br />
 
 #
 
-### 📊 GitHub Analytics
+### <h2>📊<i> GitHub Analytics</i></h2>
     
 ![Smart's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartfab&show_icons=true&theme=outrun)
 
 ---
 
-### Awards and Badges
+### <h2><i>🏅 Awards &  Badges</i></h2>
 <div align="center">
 <a  href="https://www.credly.com/earner/earned/badge/22354a63-0cd0-401d-9b83-26165a521083"><img src="badges/git-and-github-essentials.png" height="200px" alt="IBM GitHub Badge/></a>
 <a href="https://www.credly.com/earner/earned/badge/56a76d4e-9861-4ab1-95e2-d987767b00f5"><img src="badges/linux-commands-shell-scripting-essentials-v2.png" height="200px" alt="IBM Linux Badge"/></a>
