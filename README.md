@@ -36,7 +36,16 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 
 ## 📊<i> GitHub Analytics</i>
     
-![Smart's GitHub stats](https://github-readme-stats-smartfab.vercel.app/api?username=smartfab&show_icons=true&theme=outrun&count_private=true)
+ <p align="center">
+        <a href="https://github.com/smartfab">
+            <img height="180em"
+                src="https://github-readme-stats-sigma-five.vercel.app/api?username=smartfab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+            <img height="180em"
+                src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smartfab&langs_count=12&layout=compact&langs_count=8&theme=algolia" />
+        </a>
+        <img width="50%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=smartfab&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+    </p>
 
 ---
 
