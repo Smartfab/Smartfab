@@ -3,14 +3,14 @@ I'm a Software Engineer building my version of the digital world, one step at a 
 <br/>
 <br/>
 ## 🤝🏻 &nbsp;Connect with Me:
-[![website](/img/icons8-linkedin.svg)](https://linkedin.com/in/smartfabunmi#gh-light-mode-only)
-[![website](/img/icons8-linkedin.svg)](https://linkedin.com/in/smartfabunmi#gh-dark-mode-only)
+[![website](/img/icons8-linkedin.svg)](https://linkedin.com/in/smartfabunmi)
+[![website](/img/icons8-linkedin.svg)](https://linkedin.com/in/smartfabunmi)
 &nbsp;&nbsp;
-[![website](./img/icons8-twitterx.svg)](https://twitter.com/smart_fabunmi#gh-light-mode-only)
-[![website](./img/icons8-twitterx.svg)](https://twitter.com/smart_fabunmi#gh-dark-mode-only)
+[![website](./img/icons8-twitterx.svg)](https://twitter.com/smart_fabunmi)
+[![website](./img/icons8-twitterx.svg)](https://twitter.com/smart_fabunmi)
 &nbsp;&nbsp;
-[![website](./img/icons8-gmail.svg)](mailto:smartfabunmi@gmail.com#gh-light-mode-only)
-[![website](./img/icons8-gmail.svg)](mailto:devumair260@gmail.com#gh-dark-mode-only)
+[![website](./img/icons8-gmail.svg)](mailto:smartfabunmi@gmail.com)
+[![website](./img/icons8-gmail.svg)](mailto:devumair260@gmail.com)
 <br/>
 
 
